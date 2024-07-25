@@ -27,6 +27,7 @@ export const ASYNC_SYSTEM_ICON_LIST = {
 
 /**
  * STEP 2 - import them dynamically / asynchronously
+ * can be also svg loader independent
  */
 
 const createSystemIconSet = (data) =>

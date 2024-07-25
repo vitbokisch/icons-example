@@ -37,6 +37,7 @@ export const ASYNC_SERVICE_ICON_LIST_BY_TITLE = {
 
 /**
  * STEP 2 - import them dynamically 
+ * can be also svg loader independent
  */
 
 const createSystemIconSet = (data) =>
